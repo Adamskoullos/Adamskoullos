@@ -25,7 +25,7 @@ These are markdown guides used to map patterns to be used as a reference when bu
 
 ## Working repos
 These range from practice projects, to specific component development and testing, to blog posts.
-You will also find my **coding-dojo** where I go to work on and save interesting problems and solutions.
+You will also find my **coding-dojo** where I go to work on and save interesting problems and solutions. If you have a minute check out the **FCC/projects** folder within **coding-dojo** to see my solutions for the 5 FreeCodeCamp challenges that earnt me the Algorithms & Data Structures certificate. In fact please right click this [link](https://github1s.com/Adamskoullos/Coding-Dojo/blob/master/fcc/projects/cashRegister.js) to open directly in the browser.
 
  
 
