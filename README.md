@@ -17,7 +17,7 @@
   
 ## Front-End HTML | CSS | JS | jQuery | Ajax
 
-  - **Trader Dashboards** Built leveraging the amazing TradingView charts pulling in real-time and end of data from a range of providers including live news feed and economic calendar. 
+  - **Trader Dashboards** Built leveraging the amazing TradingView charts pulling in real-time and end of day data from a range of providers including live news feed and economic calendar. 
 
 
 ## Pattern modelling repos: 
