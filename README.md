@@ -7,7 +7,7 @@
   - Vue 3 + Firebase
     - **ProDev** Built as an SPA and uses Bootstrap 5, GSAP, date-fns
     - **Portfolio** Also built as an SPA but includes **SASS** and **marked**, the markdown previewer
-  - Jamstack
+  - Static
     - **ProDev Build Guide** This static site was built with Vitepress and hosted on Netlify   
 
 ## Full-Stack JavaScript | Python:
