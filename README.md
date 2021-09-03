@@ -5,6 +5,8 @@
 - Personal Projects
 - R&D, workflow best practices and practical guides
 
+Day to day I work on private repos within AWS CodeCommit where the stack includes Nuxt/Laravel.
+
 ## Personal Projects ----
 
 ### Full-Stack JavaScript:
