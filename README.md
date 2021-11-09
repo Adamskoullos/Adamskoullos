@@ -5,7 +5,9 @@
 - Personal Projects
 - R&D, workflow best practices and practical guides
 
-Day to day I work on private repos within AWS CodeCommit where the stack includes Nuxt/Laravel.
+Day to day I work on private repos within GitLab using GitKraken and the front-end technologies include Vue, Nuxt, Vuetify & Vuex all hosted on AWS Amplify.
+
+----
 
 ## Personal Projects ----
 
