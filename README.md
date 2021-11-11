@@ -5,7 +5,7 @@
 - Personal Projects
 - R&D, workflow best practices and practical guides
 
-Day to day I work on private repos within GitLab using GitKraken and the front-end technologies include Vue, Nuxt, Vuetify & Vuex all hosted on AWS Amplify.
+Day to day I work on private repos within GitLab with Vue, Nuxt, Vuetify & Vuex.
 
 ----
 
