@@ -5,11 +5,11 @@
 - Personal Projects
 - R&D, workflow best practices and practical guides
 
-Day to day I work on private repos within GitLab with Vue, Nuxt, Vuetify & Vuex.
+Day to day I work in private repos within GitLab/GitHub spanning both Vue and React stacks.
 
 ----
 
-## Personal Projects ----
+## Personal Projects 
 
 ### Full-Stack JavaScript:
 
@@ -23,7 +23,7 @@ Day to day I work on private repos within GitLab with Vue, Nuxt, Vuetify & Vuex.
 
   - **Trader Dashboards** Built leveraging the amazing TradingView charts pulling in real-time and end of day data from a range of providers including live news feed and economic calendar. 
 
-## Professional R&D and Practical guides ----
+## Professional R&D and Practical guides 
 
 ### Pattern modelling repos: 
 These are markdown guides used to map patterns to be used as a reference when building projects. I like to build these as I am learning an area to reinforce my understanding and also to share my knowledge with my team mates
