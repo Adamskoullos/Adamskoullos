@@ -13,6 +13,8 @@ Day to day I work in private repos within GitLab/GitHub spanning both Vue and Re
 
 ### Full-Stack JavaScript:
 
+  - MERN (Next)
+    - **Vulcon** (private but interest is welcome) A long term project providing Crypto on-chain analysis, charting, trading and DeFi tools   
   - Vue 3 + Firebase
     - **ProDev** Built as an SPA and uses Bootstrap 5, GSAP, date-fns
     - **Portfolio** Also built as an SPA but includes **SASS** and **marked**, the markdown previewer
@@ -25,12 +27,7 @@ Day to day I work in private repos within GitLab/GitHub spanning both Vue and Re
 
 ## Professional R&D and Practical guides 
 
-### Pattern modelling repos: 
-These are markdown guides used to map patterns to be used as a reference when building projects. I like to build these as I am learning an area to reinforce my understanding and also to share my knowledge with my team mates
-
-### Working repos
-These range from practice projects, to specific component development and testing, to blog posts.
-You will also find my **coding-dojo** where I go to work on and save interesting problems and solutions. If you have a minute check out the **FCC/projects** folder within **coding-dojo** to see my solutions for the 5 FreeCodeCamp challenges that earnt me the Algorithms & Data Structures certificate. In fact please right click this [link](https://github1s.com/Adamskoullos/Coding-Dojo/blob/master/fcc/projects/cashRegister.js) to open directly in the browser.
+Individual feature development I usually share in public repos, then I have both the `Node` and `Front-End` repos which are a vast vault of modelled patterns and best practices which I use as go to toolboxes daya to day. 
 
  
 
