@@ -27,7 +27,7 @@ Day to day I work in private repos within GitLab/GitHub spanning both Vue and Re
 
 ## Professional R&D and Practical guides 
 
-Individual feature development I usually share in public repos, then I have both the `Node` and `Front-End` repos which are a vast vault of modelled patterns and best practices which I use as go to toolboxes daya to day. 
+Individual feature development I usually share in public repos, then I have both the `Node` and `Front-End` repos which are a vast vault of modelled patterns and best practices which I use as go-to toolboxes day to day. 
 
  
 
