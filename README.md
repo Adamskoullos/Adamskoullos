@@ -18,6 +18,7 @@ Day to day I work in private repos within GitLab/GitHub spanning both Vue and Re
     - Link
     - Description
     - Source 
+    - Coin Tags
 
 ### Full-Stack JavaScript:
 
